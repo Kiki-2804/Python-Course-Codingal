@@ -1,0 +1,5 @@
+print("Hello Everyone")
+print(6)
+print("Codingal \n")
+print("hello",7,True,"Lesson 2")
+print("Python",end="I")
