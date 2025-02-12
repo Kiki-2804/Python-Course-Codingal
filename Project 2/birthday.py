@@ -1,0 +1,10 @@
+Ally=28/12/24
+Ben=15/11/12
+Nash=13/4/16
+Ave=12/12/12
+May=7/5/25
+print(Ally)
+print(Ben)
+print(Nash)
+print(Ave)
+print(May)
