@@ -5,4 +5,4 @@ m3=int(input("Bio Marks:"))
 sum=m1+m2+m3
 print("Sum of all marks is:",sum)
 perc=(sum/400)*100
-print("Percentage of marks if:",perc)
+print("Percentage of marks is:",perc)
